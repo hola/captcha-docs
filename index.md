@@ -12,11 +12,11 @@ Welcome to the internal CAPTCHA solver documentation. This guide will help you d
 
 ## Quick Links
 
-- [Dashboard Navigation & Terminology](docs/dashboard-terminology.md)
-- [The Sessions Flow](docs/sessions-flow.md)
-- [Diagnosing a CAPTCHA Session](docs/diagnosing-session.md)
-- [Low Success Rate Guidelines](docs/low-sr-guidelines.md)
-- [Internal Testing Tools](docs/testing-tools.md)
+🧭 [Navigation & Terminology](docs/dashboard.md)
+🔄 [The Sessions Flow](docs/sessions-flow.md)
+🔍 [Diagnosing a CAPTCHA Session](docs/diagnosing-session.md)
+🪫 [Low SR Guidelines](docs/low-sr-guidelines.md)
+🔧 [scrape_test / sbr_test](docs/scripts.md)
 
 ## Overview
 
