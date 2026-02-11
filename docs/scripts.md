@@ -26,3 +26,10 @@ It allows for high-volume automated requests without complex user logic.
 
 ```bash
 scrape_test urls -l 10000 -d homedepot.com -g pdp --days 1 > homedepot_pdp.txt
+```
+
+**Step 2**: Use the run command to send requests (e.g., 10 times) to those URLs.
+
+```bash
+scrape_test run -u './homedepot_pdp.txt' -g scrape_r.js -t -B 'output' --clear -n 10
+```
