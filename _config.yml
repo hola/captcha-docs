@@ -1,0 +1,17 @@
+title: CAPTCHA Solver Documentation
+description: Internal guide for diagnosing and managing CAPTCHA solving
+remote_theme: just-the-docs/just-the-docs
+
+# Enable search
+search_enabled: true
+
+# Aux links (optional - top right corner)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/YOUR-USERNAME/YOUR-REPO"
+
+# Color scheme
+color_scheme: light
+
+# Footer content (optional)
+footer_content: "Copyright &copy; 2026 Bright Data. Internal Use Only."
