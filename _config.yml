@@ -11,7 +11,7 @@ aux_links:
     - "https://github.com/YOUR-USERNAME/YOUR-REPO"
 
 # Color scheme
-color_scheme: light
+color_scheme: dark
 
 # Footer content (optional)
-footer_content: "Copyright &copy; 2026 Bright Data. Internal Use Only."
+footer_content: "Internal Use Only."
